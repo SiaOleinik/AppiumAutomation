@@ -1,0 +1,9 @@
+# Created at 2024-02-14T15:54:20.329
+The session identified by 7b59571c-51e0-46b4-a67a-f65519d70577 is not known
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.5', java.version: '17.0.9'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [7a06c626-50f9-480c-b44d-7883517b6b72, screenshot {}]
+Capabilities {appium:app: /Users/olesiaoleinik/eclips..., appium:appPackage: com.androidsample.generalstore, appium:automationName: UIAutomator2, appium:chromedriverExecutable: /Users/olesiaoleinik/Docume..., appium:databaseEnabled: false, appium:desired: {app: /Users/olesiaoleinik/eclips..., automationName: UIAutomator2, chromedriverExecutable: /Users/olesiaoleinik/Docume..., deviceName: AndroidDeviceName, platformName: ANDROID}, appium:deviceApiLevel: 30, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_arm64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 560, appium:deviceScreenSize: 1440x2880, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 3.5, appium:platformVersion: 11, appium:statBarHeight: 84, appium:takesScreenshot: true, appium:viewportRect: {height: 2628, left: 0, top: 84, width: 1440}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 7a06c626-50f9-480c-b44d-7883517b6b72
+
