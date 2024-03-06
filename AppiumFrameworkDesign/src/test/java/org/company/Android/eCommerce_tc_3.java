@@ -25,6 +25,8 @@ import io.appium.java_client.android.nativekey.AndroidKey;
 import io.appium.java_client.android.nativekey.KeyEvent;
 
 public class eCommerce_tc_3 extends AndroidBaseTest {
+
+//new comment are added
 	
 	@BeforeMethod(enabled=false)
 	public void preSetup() {
